@@ -33,10 +33,13 @@ print("3. Multiply")
 print("4. Divide")
 
 while True:
+
     #take input from user
+    
     choice = input("Enter choice(1/2/3/4): ")
 
     #check if choice is one of the four options
+    
     if choice in ('1', '2', '3', '4'):
         n1 = float(input("Enter first number: "))
         n2 = float(input("Enter second number: "))
