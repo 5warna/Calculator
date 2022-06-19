@@ -1,5 +1,5 @@
 # Calculator
-Simple Calculator using python 
+Calculator using python 
 #Program to make a simple calculator with define functions
 
 #This function adds two numbers
